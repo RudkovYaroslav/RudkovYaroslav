@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**RudkovYaroslav/RudkovYaroslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Rudkov Yaroslav 🤙
 
-Here are some ideas to get you started:
+Beginner in Data Analytics. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases:
+PostgreSQL, MySQL
+
+Python Libraries:
+Pandas, Numpy, Matplotlib, Seaborn, Scipy
+
+Have pretty good understanding of VBA to automatize reports in Excel
+
+You can check my Projects in [Portfolio](https://github.com/RudkovYaroslav/portfolio)

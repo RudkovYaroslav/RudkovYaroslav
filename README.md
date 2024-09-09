@@ -2,13 +2,15 @@
 
 ## My name is Rudkov Yaroslav 🤙
 
-Beginner in Data Analytics. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+Data Analyst. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+
+Education: MIREA - Institute for Cybersecurity and Digital Technologies, Information and Analytical Security Systems
 
 Databases:
 PostgreSQL, MySQL
 
 Python Libraries:
-Pandas, Numpy, Matplotlib, Seaborn, Scipy
+Pandas, Numpy, Matplotlib, Seaborn, Scipy, BeautifulSoup
 
 Have pretty good understanding of VBA to automatize reports in Excel
 

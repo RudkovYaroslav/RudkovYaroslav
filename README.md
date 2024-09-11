@@ -9,8 +9,9 @@ Education: MIREA - Institute for Cybersecurity and Digital Technologies, Informa
 Databases:
 PostgreSQL, MySQL
 
-Python Libraries:
-Pandas, Numpy, Matplotlib, Seaborn, Scipy, BeautifulSoup
+Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy, BeautifulSoup
+
+Visualisation: DataLense
 
 Have pretty good understanding of VBA to automatize reports in Excel
 

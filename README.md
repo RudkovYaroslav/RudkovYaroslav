@@ -13,7 +13,7 @@ PostgreSQL, MySQL
 
 Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scipy, BeautifulSoup
 
-Visualisation: DataLense
+Visualisation: DataLense, Tableau
 
 Have pretty good understanding of VBA to automatize reports in Excel
 

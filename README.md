@@ -5,6 +5,7 @@
 Data Analyst. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
 
 Education: MIREA - Institute for Cybersecurity and Digital Technologies, Information and Analytical Security Systems
+Yandex Practicum - Data Analyst
 
 Databases:
 PostgreSQL, MySQL
